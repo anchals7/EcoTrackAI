@@ -57,7 +57,7 @@ Built with Next.js 14 and Tailwind CSS, featuring a custom color palette designe
 
 ## 🎥 Demo Video
 
-**Watch the full demo:** [Link to your demo video]
+**Watch the full demo:** https://youtu.be/lk7LDV43AE4
 
 *See EcoTrack AI in action: natural language logging, real-time dashboard updates, forecasting, and personalized recommendations.*
 
