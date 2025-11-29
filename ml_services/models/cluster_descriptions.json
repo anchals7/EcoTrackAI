@@ -1,0 +1,104 @@
+{
+  "0": {
+    "archetype": "High Energy & Food Usage",
+    "stats": {
+      "size": 326,
+      "avg_total_emissions": 12388.492392638036,
+      "avg_daily_miles": 15.840736196319018,
+      "avg_meat_meals": 10.383435582822086,
+      "avg_electricity": 38.32429447852761,
+      "avg_flights": 0.15644171779141106
+    },
+    "transport_ratio": 0.192,
+    "food_ratio": 0.159,
+    "energy_ratio": 0.638,
+    "flight_ratio": 0.011,
+    "dominant_source": "energy",
+    "dominant_ratio": 0.638
+  },
+  "1": {
+    "archetype": "High Transportation",
+    "stats": {
+      "size": 240,
+      "avg_total_emissions": 14112.315708333334,
+      "avg_daily_miles": 46.279625,
+      "avg_meat_meals": 4.4375,
+      "avg_electricity": 30.024291666666667,
+      "avg_flights": 0.14166666666666666
+    },
+    "transport_ratio": 0.492,
+    "food_ratio": 0.065,
+    "energy_ratio": 0.434,
+    "flight_ratio": 0.009,
+    "dominant_source": "transport",
+    "dominant_ratio": 0.492
+  },
+  "2": {
+    "archetype": "Moderate Energy Usage",
+    "stats": {
+      "size": 318,
+      "avg_total_emissions": 9456.597704402517,
+      "avg_daily_miles": 15.548490566037737,
+      "avg_meat_meals": 3.0534591194968552,
+      "avg_electricity": 30.103647798742134,
+      "avg_flights": 0.16666666666666666
+    },
+    "transport_ratio": 0.247,
+    "food_ratio": 0.082,
+    "energy_ratio": 0.656,
+    "flight_ratio": 0.016,
+    "dominant_source": "energy",
+    "dominant_ratio": 0.656
+  },
+  "3": {
+    "archetype": "Very High Energy Usage",
+    "stats": {
+      "size": 42,
+      "avg_total_emissions": 42774.46619047619,
+      "avg_daily_miles": 18.38142857142857,
+      "avg_meat_meals": 5.928571428571429,
+      "avg_electricity": 204.43666666666667,
+      "avg_flights": 0.14285714285714285
+    },
+    "transport_ratio": 0.064,
+    "food_ratio": 0.029,
+    "energy_ratio": 0.904,
+    "flight_ratio": 0.003,
+    "dominant_source": "energy",
+    "dominant_ratio": 0.904
+  },
+  "4": {
+    "archetype": "High Energy Usage",
+    "stats": {
+      "size": 36,
+      "avg_total_emissions": 21717.425555555557,
+      "avg_daily_miles": 22.79888888888889,
+      "avg_meat_meals": 7.194444444444445,
+      "avg_electricity": 57.446666666666665,
+      "avg_flights": 0.16666666666666666
+    },
+    "transport_ratio": 0.157,
+    "food_ratio": 0.067,
+    "energy_ratio": 0.769,
+    "flight_ratio": 0.007,
+    "dominant_source": "energy",
+    "dominant_ratio": 0.769
+  },
+  "5": {
+    "archetype": "High Energy Usage",
+    "stats": {
+      "size": 38,
+      "avg_total_emissions": 15529.768421052633,
+      "avg_daily_miles": 22.51710526315789,
+      "avg_meat_meals": 6.815789473684211,
+      "avg_electricity": 39.77342105263158,
+      "avg_flights": 3.026315789473684
+    },
+    "transport_ratio": 0.218,
+    "food_ratio": 0.088,
+    "energy_ratio": 0.519,
+    "flight_ratio": 0.175,
+    "dominant_source": "energy",
+    "dominant_ratio": 0.519
+  }
+}
